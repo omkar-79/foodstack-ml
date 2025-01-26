@@ -1,0 +1,843 @@
+Date,Day of the Week,Hour,Dish Name,Amount Ordered
+01/01/25,Wednesday,11:00,Pasta,1
+01/01/25,Wednesday,11:00,Pizza,3
+01/01/25,Wednesday,11:00,Sandwich,2
+01/01/25,Wednesday,11:00,Sushi,5
+01/01/25,Wednesday,12:00,Fried Chicken,5
+01/01/25,Wednesday,12:00,Burger,4
+01/01/25,Wednesday,12:00,Soup,3
+01/01/25,Wednesday,12:00,Steak,2
+01/01/25,Wednesday,12:00,Steak,4
+01/01/25,Wednesday,12:00,Pizza,5
+01/01/25,Wednesday,12:00,Pasta,4
+01/01/25,Wednesday,12:00,Pasta,7
+01/01/25,Wednesday,12:00,Burger,6
+01/01/25,Wednesday,12:00,Tacos,3
+01/01/25,Wednesday,13:00,Burger,2
+01/01/25,Wednesday,13:00,Salad,4
+01/01/25,Wednesday,13:00,Pizza,3
+01/01/25,Wednesday,13:00,Pizza,6
+01/01/25,Wednesday,13:00,Salad,5
+01/01/25,Wednesday,13:00,Sandwich,2
+01/01/25,Wednesday,13:00,Pizza,3
+01/01/25,Wednesday,13:00,Steak,4
+01/01/25,Wednesday,13:00,Fried Chicken,6
+01/01/25,Wednesday,13:00,Sushi,3
+01/01/25,Wednesday,13:00,Pizza,7
+01/01/25,Wednesday,14:00,Sandwich,2
+01/01/25,Wednesday,14:00,Burger,3
+01/01/25,Wednesday,14:00,Burger,3
+01/01/25,Wednesday,14:00,Tacos,4
+01/01/25,Wednesday,14:00,Pizza,2
+01/01/25,Wednesday,14:00,Pizza,5
+01/01/25,Wednesday,14:00,Steak,3
+01/01/25,Wednesday,14:00,Pasta,2
+01/01/25,Wednesday,14:00,Steak,5
+01/01/25,Wednesday,14:00,Steak,2
+01/01/25,Wednesday,14:00,Salad,5
+01/01/25,Wednesday,14:00,Pizza,4
+01/01/25,Wednesday,15:00,Burger,1
+01/01/25,Wednesday,15:00,Sandwich,1
+01/01/25,Wednesday,15:00,Steak,2
+01/01/25,Wednesday,15:00,Pizza,3
+01/01/25,Wednesday,16:00,Pasta,3
+01/01/25,Wednesday,16:00,Soup,1
+01/01/25,Wednesday,16:00,Sandwich,5
+01/01/25,Wednesday,16:00,Soup,4
+01/01/25,Wednesday,16:00,Sushi,2
+01/01/25,Wednesday,16:00,Pizza,5
+01/01/25,Wednesday,17:00,Sandwich,3
+01/01/25,Wednesday,17:00,Burger,2
+01/01/25,Wednesday,17:00,Burger,1
+01/01/25,Wednesday,17:00,Sushi,5
+01/01/25,Wednesday,17:00,Steak,1
+01/01/25,Wednesday,18:00,Sushi,5
+01/01/25,Wednesday,18:00,Pasta,2
+01/01/25,Wednesday,18:00,Sushi,5
+01/01/25,Wednesday,18:00,Burger,4
+01/01/25,Wednesday,18:00,Steak,7
+01/01/25,Wednesday,18:00,Pizza,3
+01/01/25,Wednesday,18:00,Steak,3
+01/01/25,Wednesday,18:00,Tacos,6
+01/01/25,Wednesday,19:00,Fried Chicken,7
+01/01/25,Wednesday,19:00,Sushi,3
+01/01/25,Wednesday,19:00,Salad,4
+01/01/25,Wednesday,19:00,Burger,3
+01/01/25,Wednesday,19:00,Fried Chicken,6
+01/01/25,Wednesday,19:00,Pasta,7
+01/01/25,Wednesday,19:00,Pizza,4
+01/01/25,Wednesday,19:00,Pizza,4
+01/01/25,Wednesday,19:00,Pizza,5
+01/01/25,Wednesday,19:00,Burger,6
+01/01/25,Wednesday,19:00,Tacos,7
+01/01/25,Wednesday,19:00,Salad,4
+01/01/25,Wednesday,20:00,Pasta,3
+01/01/25,Wednesday,20:00,Tacos,5
+01/01/25,Wednesday,20:00,Pizza,2
+01/01/25,Wednesday,20:00,Fried Chicken,4
+01/01/25,Wednesday,20:00,Steak,5
+01/01/25,Wednesday,20:00,Burger,3
+01/01/25,Wednesday,20:00,Soup,4
+01/01/25,Wednesday,20:00,Steak,6
+01/01/25,Wednesday,20:00,Sushi,7
+01/01/25,Wednesday,20:00,Steak,4
+01/01/25,Wednesday,20:00,Pasta,2
+01/01/25,Wednesday,20:00,Pizza,3
+01/01/25,Wednesday,21:00,Pizza,5
+01/01/25,Wednesday,21:00,Steak,4
+01/01/25,Wednesday,21:00,Fried Chicken,4
+01/01/25,Wednesday,21:00,Pizza,3
+01/01/25,Wednesday,21:00,Soup,2
+01/01/25,Wednesday,21:00,Burger,2
+01/01/25,Wednesday,21:00,Salad,4
+02/01/25,Thursday,11:00,Sushi,4
+02/01/25,Thursday,11:00,Steak,1
+02/01/25,Thursday,11:00,Burger,2
+02/01/25,Thursday,11:00,Tacos,2
+02/01/25,Thursday,11:00,Fried Chicken,3
+02/01/25,Thursday,11:00,Sushi,3
+02/01/25,Thursday,11:00,Tacos,2
+02/01/25,Thursday,11:00,Tacos,2
+02/01/25,Thursday,12:00,Salad,7
+02/01/25,Thursday,12:00,Salad,7
+02/01/25,Thursday,12:00,Pasta,6
+02/01/25,Thursday,12:00,Sandwich,3
+02/01/25,Thursday,12:00,Burger,6
+02/01/25,Thursday,12:00,Burger,4
+02/01/25,Thursday,12:00,Tacos,6
+02/01/25,Thursday,12:00,Tacos,4
+02/01/25,Thursday,12:00,Steak,4
+02/01/25,Thursday,12:00,Steak,4
+02/01/25,Thursday,12:00,Steak,6
+02/01/25,Thursday,12:00,Fried Chicken,2
+02/01/25,Thursday,13:00,Steak,4
+02/01/25,Thursday,13:00,Fried Chicken,5
+02/01/25,Thursday,13:00,Burger,5
+02/01/25,Thursday,13:00,Burger,6
+02/01/25,Thursday,13:00,Burger,5
+02/01/25,Thursday,13:00,Salad,7
+02/01/25,Thursday,13:00,Tacos,5
+02/01/25,Thursday,13:00,Pasta,7
+02/01/25,Thursday,14:00,Salad,6
+02/01/25,Thursday,14:00,Pizza,4
+02/01/25,Thursday,14:00,Pizza,6
+02/01/25,Thursday,14:00,Fried Chicken,4
+02/01/25,Thursday,14:00,Burger,5
+02/01/25,Thursday,14:00,Pizza,2
+02/01/25,Thursday,14:00,Burger,6
+02/01/25,Thursday,14:00,Steak,7
+02/01/25,Thursday,14:00,Pizza,7
+02/01/25,Thursday,14:00,Pizza,2
+02/01/25,Thursday,14:00,Steak,7
+02/01/25,Thursday,14:00,Salad,6
+02/01/25,Thursday,14:00,Steak,4
+02/01/25,Thursday,14:00,Steak,2
+02/01/25,Thursday,14:00,Sushi,5
+02/01/25,Thursday,15:00,Soup,2
+02/01/25,Thursday,15:00,Tacos,2
+02/01/25,Thursday,15:00,Steak,5
+02/01/25,Thursday,15:00,Pizza,3
+02/01/25,Thursday,15:00,Pasta,4
+02/01/25,Thursday,16:00,Pasta,2
+02/01/25,Thursday,16:00,Sandwich,4
+02/01/25,Thursday,16:00,Salad,2
+02/01/25,Thursday,16:00,Sandwich,5
+02/01/25,Thursday,16:00,Soup,4
+02/01/25,Thursday,16:00,Fried Chicken,2
+02/01/25,Thursday,17:00,Salad,5
+02/01/25,Thursday,17:00,Soup,2
+02/01/25,Thursday,17:00,Pizza,4
+02/01/25,Thursday,17:00,Fried Chicken,2
+02/01/25,Thursday,18:00,Sandwich,5
+02/01/25,Thursday,18:00,Tacos,2
+02/01/25,Thursday,18:00,Steak,5
+02/01/25,Thursday,18:00,Sandwich,5
+02/01/25,Thursday,18:00,Sandwich,3
+02/01/25,Thursday,18:00,Burger,3
+02/01/25,Thursday,18:00,Pasta,6
+02/01/25,Thursday,18:00,Pizza,4
+02/01/25,Thursday,18:00,Steak,6
+02/01/25,Thursday,18:00,Fried Chicken,7
+02/01/25,Thursday,18:00,Pizza,7
+02/01/25,Thursday,18:00,Sandwich,6
+02/01/25,Thursday,18:00,Pizza,4
+02/01/25,Thursday,19:00,Tacos,6
+02/01/25,Thursday,19:00,Burger,6
+02/01/25,Thursday,19:00,Pizza,2
+02/01/25,Thursday,19:00,Burger,2
+02/01/25,Thursday,19:00,Pizza,7
+02/01/25,Thursday,19:00,Sandwich,5
+02/01/25,Thursday,19:00,Sushi,7
+02/01/25,Thursday,19:00,Salad,3
+02/01/25,Thursday,19:00,Tacos,7
+02/01/25,Thursday,20:00,Steak,3
+02/01/25,Thursday,20:00,Burger,4
+02/01/25,Thursday,20:00,Burger,7
+02/01/25,Thursday,20:00,Sushi,5
+02/01/25,Thursday,20:00,Sandwich,3
+02/01/25,Thursday,20:00,Steak,2
+02/01/25,Thursday,20:00,Burger,6
+02/01/25,Thursday,20:00,Fried Chicken,5
+02/01/25,Thursday,21:00,Pizza,1
+02/01/25,Thursday,21:00,Sandwich,3
+02/01/25,Thursday,21:00,Pasta,1
+03/01/25,Friday,11:00,Pasta,2
+03/01/25,Friday,11:00,Fried Chicken,2
+03/01/25,Friday,11:00,Soup,1
+03/01/25,Friday,11:00,Burger,4
+03/01/25,Friday,11:00,Pizza,4
+03/01/25,Friday,11:00,Sushi,1
+03/01/25,Friday,12:00,Pizza,6
+03/01/25,Friday,12:00,Sandwich,4
+03/01/25,Friday,12:00,Sandwich,6
+03/01/25,Friday,12:00,Sushi,3
+03/01/25,Friday,12:00,Soup,4
+03/01/25,Friday,12:00,Sushi,6
+03/01/25,Friday,12:00,Tacos,2
+03/01/25,Friday,12:00,Steak,7
+03/01/25,Friday,12:00,Pasta,2
+03/01/25,Friday,12:00,Sushi,3
+03/01/25,Friday,13:00,Burger,4
+03/01/25,Friday,13:00,Pasta,3
+03/01/25,Friday,13:00,Tacos,6
+03/01/25,Friday,13:00,Pizza,6
+03/01/25,Friday,13:00,Sushi,2
+03/01/25,Friday,13:00,Tacos,2
+03/01/25,Friday,13:00,Fried Chicken,6
+03/01/25,Friday,13:00,Salad,6
+03/01/25,Friday,13:00,Steak,2
+03/01/25,Friday,13:00,Fried Chicken,2
+03/01/25,Friday,14:00,Sandwich,7
+03/01/25,Friday,14:00,Salad,5
+03/01/25,Friday,14:00,Burger,2
+03/01/25,Friday,14:00,Soup,5
+03/01/25,Friday,14:00,Burger,4
+03/01/25,Friday,14:00,Fried Chicken,5
+03/01/25,Friday,14:00,Pizza,2
+03/01/25,Friday,14:00,Soup,4
+03/01/25,Friday,14:00,Salad,6
+03/01/25,Friday,14:00,Pizza,5
+03/01/25,Friday,14:00,Pasta,3
+03/01/25,Friday,14:00,Pasta,3
+03/01/25,Friday,14:00,Burger,5
+03/01/25,Friday,14:00,Soup,3
+03/01/25,Friday,14:00,Burger,5
+03/01/25,Friday,15:00,Steak,2
+03/01/25,Friday,15:00,Steak,4
+03/01/25,Friday,15:00,Pizza,1
+03/01/25,Friday,15:00,Fried Chicken,2
+03/01/25,Friday,15:00,Pasta,5
+03/01/25,Friday,15:00,Sushi,3
+03/01/25,Friday,15:00,Steak,4
+03/01/25,Friday,16:00,Soup,4
+03/01/25,Friday,16:00,Fried Chicken,1
+03/01/25,Friday,16:00,Steak,1
+03/01/25,Friday,16:00,Steak,3
+03/01/25,Friday,16:00,Soup,3
+03/01/25,Friday,16:00,Soup,5
+03/01/25,Friday,17:00,Soup,3
+03/01/25,Friday,17:00,Fried Chicken,2
+03/01/25,Friday,17:00,Salad,5
+03/01/25,Friday,17:00,Sandwich,1
+03/01/25,Friday,17:00,Pasta,1
+03/01/25,Friday,17:00,Burger,4
+03/01/25,Friday,18:00,Steak,3
+03/01/25,Friday,18:00,Salad,3
+03/01/25,Friday,18:00,Sandwich,7
+03/01/25,Friday,18:00,Fried Chicken,4
+03/01/25,Friday,18:00,Fried Chicken,5
+03/01/25,Friday,18:00,Steak,5
+03/01/25,Friday,18:00,Salad,3
+03/01/25,Friday,18:00,Burger,6
+03/01/25,Friday,18:00,Sandwich,5
+03/01/25,Friday,18:00,Steak,4
+03/01/25,Friday,18:00,Pasta,7
+03/01/25,Friday,18:00,Steak,2
+03/01/25,Friday,19:00,Pizza,3
+03/01/25,Friday,19:00,Sushi,7
+03/01/25,Friday,19:00,Pasta,5
+03/01/25,Friday,19:00,Sandwich,4
+03/01/25,Friday,19:00,Fried Chicken,6
+03/01/25,Friday,19:00,Steak,7
+03/01/25,Friday,19:00,Burger,2
+03/01/25,Friday,19:00,Pizza,5
+03/01/25,Friday,19:00,Burger,7
+03/01/25,Friday,19:00,Tacos,7
+03/01/25,Friday,19:00,Fried Chicken,6
+03/01/25,Friday,19:00,Pasta,4
+03/01/25,Friday,20:00,Fried Chicken,7
+03/01/25,Friday,20:00,Pizza,7
+03/01/25,Friday,20:00,Fried Chicken,5
+03/01/25,Friday,20:00,Steak,3
+03/01/25,Friday,20:00,Sushi,3
+03/01/25,Friday,20:00,Soup,3
+03/01/25,Friday,20:00,Fried Chicken,5
+03/01/25,Friday,20:00,Sandwich,2
+03/01/25,Friday,20:00,Pizza,6
+03/01/25,Friday,20:00,Fried Chicken,5
+03/01/25,Friday,20:00,Sushi,2
+03/01/25,Friday,20:00,Steak,7
+03/01/25,Friday,20:00,Tacos,2
+03/01/25,Friday,20:00,Fried Chicken,7
+03/01/25,Friday,20:00,Fried Chicken,5
+03/01/25,Friday,21:00,Sandwich,2
+03/01/25,Friday,21:00,Soup,5
+03/01/25,Friday,21:00,Fried Chicken,3
+03/01/25,Friday,21:00,Steak,4
+03/01/25,Friday,21:00,Pizza,2
+04/01/25,Saturday,11:00,Salad,3
+04/01/25,Saturday,11:00,Burger,4
+04/01/25,Saturday,11:00,Fried Chicken,5
+04/01/25,Saturday,11:00,Burger,4
+04/01/25,Saturday,11:00,Pasta,4
+04/01/25,Saturday,11:00,Pizza,2
+04/01/25,Saturday,11:00,Burger,1
+04/01/25,Saturday,11:00,Burger,1
+04/01/25,Saturday,11:00,Pasta,4
+04/01/25,Saturday,12:00,Tacos,8
+04/01/25,Saturday,12:00,Sushi,2
+04/01/25,Saturday,12:00,Sushi,8
+04/01/25,Saturday,12:00,Burger,4
+04/01/25,Saturday,12:00,Salad,9
+04/01/25,Saturday,12:00,Fried Chicken,9
+04/01/25,Saturday,12:00,Burger,4
+04/01/25,Saturday,12:00,Tacos,4
+04/01/25,Saturday,12:00,Sushi,5
+04/01/25,Saturday,12:00,Salad,4
+04/01/25,Saturday,12:00,Pizza,8
+04/01/25,Saturday,12:00,Pasta,2
+04/01/25,Saturday,12:00,Steak,10
+04/01/25,Saturday,12:00,Burger,9
+04/01/25,Saturday,12:00,Sushi,4
+04/01/25,Saturday,12:00,Soup,4
+04/01/25,Saturday,12:00,Fried Chicken,7
+04/01/25,Saturday,12:00,Tacos,5
+04/01/25,Saturday,12:00,Pasta,6
+04/01/25,Saturday,13:00,Pasta,2
+04/01/25,Saturday,13:00,Steak,2
+04/01/25,Saturday,13:00,Fried Chicken,8
+04/01/25,Saturday,13:00,Steak,2
+04/01/25,Saturday,13:00,Fried Chicken,4
+04/01/25,Saturday,13:00,Pizza,3
+04/01/25,Saturday,13:00,Pizza,9
+04/01/25,Saturday,13:00,Pasta,7
+04/01/25,Saturday,13:00,Sandwich,2
+04/01/25,Saturday,13:00,Pasta,5
+04/01/25,Saturday,13:00,Fried Chicken,9
+04/01/25,Saturday,13:00,Sushi,2
+04/01/25,Saturday,14:00,Sushi,9
+04/01/25,Saturday,14:00,Sushi,5
+04/01/25,Saturday,14:00,Pasta,3
+04/01/25,Saturday,14:00,Sushi,8
+04/01/25,Saturday,14:00,Pizza,10
+04/01/25,Saturday,14:00,Burger,5
+04/01/25,Saturday,14:00,Steak,9
+04/01/25,Saturday,14:00,Burger,9
+04/01/25,Saturday,14:00,Pizza,7
+04/01/25,Saturday,14:00,Soup,4
+04/01/25,Saturday,14:00,Steak,3
+04/01/25,Saturday,15:00,Steak,1
+04/01/25,Saturday,15:00,Burger,3
+04/01/25,Saturday,15:00,Soup,2
+04/01/25,Saturday,15:00,Steak,2
+04/01/25,Saturday,15:00,Soup,2
+04/01/25,Saturday,15:00,Sushi,2
+04/01/25,Saturday,15:00,Burger,5
+04/01/25,Saturday,15:00,Pasta,1
+04/01/25,Saturday,15:00,Fried Chicken,5
+04/01/25,Saturday,16:00,Fried Chicken,2
+04/01/25,Saturday,16:00,Sushi,3
+04/01/25,Saturday,16:00,Soup,5
+04/01/25,Saturday,16:00,Burger,2
+04/01/25,Saturday,16:00,Pizza,5
+04/01/25,Saturday,16:00,Pizza,3
+04/01/25,Saturday,16:00,Burger,1
+04/01/25,Saturday,16:00,Steak,1
+04/01/25,Saturday,16:00,Pizza,5
+04/01/25,Saturday,17:00,Fried Chicken,4
+04/01/25,Saturday,17:00,Tacos,4
+04/01/25,Saturday,17:00,Soup,4
+04/01/25,Saturday,17:00,Pizza,5
+04/01/25,Saturday,17:00,Salad,4
+04/01/25,Saturday,17:00,Salad,2
+04/01/25,Saturday,17:00,Pasta,3
+04/01/25,Saturday,17:00,Burger,2
+04/01/25,Saturday,18:00,Pizza,8
+04/01/25,Saturday,18:00,Burger,10
+04/01/25,Saturday,18:00,Pizza,9
+04/01/25,Saturday,18:00,Pizza,10
+04/01/25,Saturday,18:00,Steak,4
+04/01/25,Saturday,18:00,Pasta,10
+04/01/25,Saturday,18:00,Burger,4
+04/01/25,Saturday,18:00,Burger,9
+04/01/25,Saturday,18:00,Pizza,10
+04/01/25,Saturday,18:00,Sushi,4
+04/01/25,Saturday,18:00,Steak,5
+04/01/25,Saturday,18:00,Pizza,8
+04/01/25,Saturday,18:00,Pizza,9
+04/01/25,Saturday,18:00,Tacos,5
+04/01/25,Saturday,18:00,Salad,9
+04/01/25,Saturday,18:00,Sushi,3
+04/01/25,Saturday,18:00,Tacos,8
+04/01/25,Saturday,18:00,Burger,8
+04/01/25,Saturday,18:00,Sandwich,9
+04/01/25,Saturday,18:00,Sandwich,7
+04/01/25,Saturday,19:00,Salad,4
+04/01/25,Saturday,19:00,Tacos,8
+04/01/25,Saturday,19:00,Fried Chicken,7
+04/01/25,Saturday,19:00,Soup,6
+04/01/25,Saturday,19:00,Salad,4
+04/01/25,Saturday,19:00,Sushi,10
+04/01/25,Saturday,19:00,Pasta,6
+04/01/25,Saturday,19:00,Pasta,2
+04/01/25,Saturday,19:00,Pizza,5
+04/01/25,Saturday,19:00,Pasta,10
+04/01/25,Saturday,19:00,Soup,2
+04/01/25,Saturday,19:00,Burger,2
+04/01/25,Saturday,20:00,Sushi,4
+04/01/25,Saturday,20:00,Soup,4
+04/01/25,Saturday,20:00,Pizza,8
+04/01/25,Saturday,20:00,Burger,4
+04/01/25,Saturday,20:00,Pizza,3
+04/01/25,Saturday,20:00,Burger,3
+04/01/25,Saturday,20:00,Salad,6
+04/01/25,Saturday,20:00,Sushi,3
+04/01/25,Saturday,20:00,Salad,2
+04/01/25,Saturday,20:00,Pizza,6
+04/01/25,Saturday,20:00,Pasta,3
+04/01/25,Saturday,20:00,Pizza,7
+04/01/25,Saturday,20:00,Steak,2
+04/01/25,Saturday,20:00,Pasta,2
+04/01/25,Saturday,20:00,Burger,6
+04/01/25,Saturday,20:00,Steak,5
+04/01/25,Saturday,20:00,Pizza,10
+04/01/25,Saturday,20:00,Pasta,7
+04/01/25,Saturday,20:00,Fried Chicken,6
+04/01/25,Saturday,20:00,Sushi,10
+04/01/25,Saturday,21:00,Pizza,5
+04/01/25,Saturday,21:00,Sushi,5
+04/01/25,Saturday,21:00,Soup,4
+04/01/25,Saturday,21:00,Salad,5
+04/01/25,Saturday,21:00,Pizza,2
+04/01/25,Saturday,21:00,Burger,2
+04/01/25,Saturday,21:00,Salad,4
+04/01/25,Saturday,21:00,Sandwich,5
+04/01/25,Saturday,21:00,Sandwich,4
+05/01/25,Sunday,11:00,Tacos,2
+05/01/25,Sunday,11:00,Burger,5
+05/01/25,Sunday,11:00,Tacos,1
+05/01/25,Sunday,11:00,Steak,1
+05/01/25,Sunday,11:00,Salad,2
+05/01/25,Sunday,12:00,Steak,2
+05/01/25,Sunday,12:00,Fried Chicken,8
+05/01/25,Sunday,12:00,Tacos,9
+05/01/25,Sunday,12:00,Sushi,7
+05/01/25,Sunday,12:00,Pizza,4
+05/01/25,Sunday,12:00,Tacos,4
+05/01/25,Sunday,12:00,Tacos,4
+05/01/25,Sunday,12:00,Pasta,8
+05/01/25,Sunday,12:00,Pizza,5
+05/01/25,Sunday,12:00,Steak,10
+05/01/25,Sunday,12:00,Burger,7
+05/01/25,Sunday,12:00,Burger,6
+05/01/25,Sunday,13:00,Fried Chicken,3
+05/01/25,Sunday,13:00,Sandwich,9
+05/01/25,Sunday,13:00,Steak,9
+05/01/25,Sunday,13:00,Tacos,3
+05/01/25,Sunday,13:00,Fried Chicken,10
+05/01/25,Sunday,13:00,Fried Chicken,9
+05/01/25,Sunday,13:00,Pizza,2
+05/01/25,Sunday,13:00,Sushi,9
+05/01/25,Sunday,13:00,Tacos,5
+05/01/25,Sunday,13:00,Sandwich,2
+05/01/25,Sunday,13:00,Sushi,5
+05/01/25,Sunday,13:00,Tacos,10
+05/01/25,Sunday,13:00,Soup,4
+05/01/25,Sunday,13:00,Fried Chicken,3
+05/01/25,Sunday,13:00,Fried Chicken,10
+05/01/25,Sunday,13:00,Steak,7
+05/01/25,Sunday,13:00,Sushi,9
+05/01/25,Sunday,14:00,Pasta,2
+05/01/25,Sunday,14:00,Pizza,2
+05/01/25,Sunday,14:00,Pizza,7
+05/01/25,Sunday,14:00,Fried Chicken,3
+05/01/25,Sunday,14:00,Soup,8
+05/01/25,Sunday,14:00,Pasta,4
+05/01/25,Sunday,14:00,Burger,4
+05/01/25,Sunday,14:00,Steak,4
+05/01/25,Sunday,14:00,Pizza,4
+05/01/25,Sunday,14:00,Soup,2
+05/01/25,Sunday,14:00,Tacos,10
+05/01/25,Sunday,14:00,Burger,10
+05/01/25,Sunday,14:00,Salad,4
+05/01/25,Sunday,14:00,Salad,9
+05/01/25,Sunday,14:00,Burger,10
+05/01/25,Sunday,14:00,Burger,6
+05/01/25,Sunday,14:00,Fried Chicken,4
+05/01/25,Sunday,14:00,Burger,2
+05/01/25,Sunday,14:00,Salad,6
+05/01/25,Sunday,15:00,Pizza,4
+05/01/25,Sunday,15:00,Steak,2
+05/01/25,Sunday,15:00,Steak,2
+05/01/25,Sunday,15:00,Pasta,3
+05/01/25,Sunday,15:00,Burger,2
+05/01/25,Sunday,16:00,Burger,4
+05/01/25,Sunday,16:00,Soup,5
+05/01/25,Sunday,16:00,Burger,1
+05/01/25,Sunday,16:00,Fried Chicken,4
+05/01/25,Sunday,16:00,Steak,5
+05/01/25,Sunday,16:00,Fried Chicken,5
+05/01/25,Sunday,16:00,Steak,4
+05/01/25,Sunday,17:00,Burger,1
+05/01/25,Sunday,17:00,Fried Chicken,1
+05/01/25,Sunday,17:00,Sandwich,3
+05/01/25,Sunday,17:00,Salad,5
+05/01/25,Sunday,17:00,Tacos,4
+05/01/25,Sunday,17:00,Pizza,5
+05/01/25,Sunday,17:00,Salad,5
+05/01/25,Sunday,17:00,Pizza,5
+05/01/25,Sunday,18:00,Burger,6
+05/01/25,Sunday,18:00,Steak,7
+05/01/25,Sunday,18:00,Sandwich,7
+05/01/25,Sunday,18:00,Steak,2
+05/01/25,Sunday,18:00,Fried Chicken,4
+05/01/25,Sunday,18:00,Burger,8
+05/01/25,Sunday,18:00,Steak,10
+05/01/25,Sunday,18:00,Burger,8
+05/01/25,Sunday,18:00,Burger,4
+05/01/25,Sunday,18:00,Sushi,9
+05/01/25,Sunday,18:00,Pizza,6
+05/01/25,Sunday,18:00,Salad,6
+05/01/25,Sunday,18:00,Steak,3
+05/01/25,Sunday,18:00,Pasta,5
+05/01/25,Sunday,18:00,Burger,3
+05/01/25,Sunday,19:00,Sandwich,9
+05/01/25,Sunday,19:00,Pizza,4
+05/01/25,Sunday,19:00,Sushi,8
+05/01/25,Sunday,19:00,Tacos,8
+05/01/25,Sunday,19:00,Salad,5
+05/01/25,Sunday,19:00,Pizza,3
+05/01/25,Sunday,19:00,Pizza,5
+05/01/25,Sunday,19:00,Sushi,4
+05/01/25,Sunday,19:00,Sandwich,2
+05/01/25,Sunday,19:00,Soup,9
+05/01/25,Sunday,19:00,Steak,3
+05/01/25,Sunday,19:00,Sushi,8
+05/01/25,Sunday,19:00,Fried Chicken,8
+05/01/25,Sunday,19:00,Sushi,8
+05/01/25,Sunday,19:00,Pasta,4
+05/01/25,Sunday,20:00,Pasta,9
+05/01/25,Sunday,20:00,Burger,3
+05/01/25,Sunday,20:00,Tacos,2
+05/01/25,Sunday,20:00,Steak,8
+05/01/25,Sunday,20:00,Burger,2
+05/01/25,Sunday,20:00,Pasta,2
+05/01/25,Sunday,20:00,Salad,6
+05/01/25,Sunday,20:00,Fried Chicken,9
+05/01/25,Sunday,20:00,Burger,8
+05/01/25,Sunday,20:00,Soup,3
+05/01/25,Sunday,20:00,Sandwich,10
+05/01/25,Sunday,20:00,Steak,5
+05/01/25,Sunday,20:00,Tacos,9
+05/01/25,Sunday,20:00,Sandwich,6
+05/01/25,Sunday,20:00,Burger,5
+05/01/25,Sunday,20:00,Pasta,4
+05/01/25,Sunday,20:00,Pizza,6
+05/01/25,Sunday,20:00,Pizza,3
+05/01/25,Sunday,20:00,Tacos,7
+05/01/25,Sunday,21:00,Fried Chicken,4
+05/01/25,Sunday,21:00,Tacos,3
+05/01/25,Sunday,21:00,Salad,1
+05/01/25,Sunday,21:00,Tacos,4
+05/01/25,Sunday,21:00,Fried Chicken,5
+05/01/25,Sunday,21:00,Sandwich,4
+05/01/25,Sunday,21:00,Pasta,5
+05/01/25,Sunday,21:00,Burger,1
+05/01/25,Sunday,21:00,Salad,5
+05/01/25,Sunday,21:00,Salad,1
+06/01/25,Monday,11:00,Fried Chicken,2
+06/01/25,Monday,11:00,Burger,1
+06/01/25,Monday,11:00,Burger,1
+06/01/25,Monday,11:00,Sushi,2
+06/01/25,Monday,12:00,Tacos,5
+06/01/25,Monday,12:00,Sushi,6
+06/01/25,Monday,12:00,Pizza,7
+06/01/25,Monday,12:00,Soup,5
+06/01/25,Monday,12:00,Salad,3
+06/01/25,Monday,12:00,Fried Chicken,3
+06/01/25,Monday,12:00,Burger,7
+06/01/25,Monday,12:00,Pizza,4
+06/01/25,Monday,13:00,Sandwich,7
+06/01/25,Monday,13:00,Steak,3
+06/01/25,Monday,13:00,Burger,2
+06/01/25,Monday,13:00,Pizza,6
+06/01/25,Monday,13:00,Burger,6
+06/01/25,Monday,13:00,Fried Chicken,2
+06/01/25,Monday,13:00,Sushi,6
+06/01/25,Monday,13:00,Pizza,2
+06/01/25,Monday,13:00,Pizza,3
+06/01/25,Monday,14:00,Soup,4
+06/01/25,Monday,14:00,Soup,2
+06/01/25,Monday,14:00,Burger,4
+06/01/25,Monday,14:00,Sushi,5
+06/01/25,Monday,14:00,Sandwich,7
+06/01/25,Monday,14:00,Fried Chicken,6
+06/01/25,Monday,14:00,Burger,6
+06/01/25,Monday,14:00,Sandwich,6
+06/01/25,Monday,14:00,Steak,4
+06/01/25,Monday,14:00,Sushi,7
+06/01/25,Monday,14:00,Sushi,7
+06/01/25,Monday,14:00,Salad,2
+06/01/25,Monday,14:00,Steak,7
+06/01/25,Monday,14:00,Fried Chicken,5
+06/01/25,Monday,14:00,Tacos,6
+06/01/25,Monday,15:00,Fried Chicken,3
+06/01/25,Monday,15:00,Burger,5
+06/01/25,Monday,15:00,Burger,4
+06/01/25,Monday,15:00,Sandwich,5
+06/01/25,Monday,15:00,Pizza,3
+06/01/25,Monday,15:00,Tacos,3
+06/01/25,Monday,15:00,Fried Chicken,5
+06/01/25,Monday,15:00,Salad,4
+06/01/25,Monday,16:00,Salad,4
+06/01/25,Monday,16:00,Burger,1
+06/01/25,Monday,16:00,Burger,3
+06/01/25,Monday,16:00,Fried Chicken,5
+06/01/25,Monday,16:00,Sandwich,5
+06/01/25,Monday,16:00,Tacos,5
+06/01/25,Monday,17:00,Salad,5
+06/01/25,Monday,17:00,Pasta,5
+06/01/25,Monday,17:00,Burger,2
+06/01/25,Monday,18:00,Pizza,7
+06/01/25,Monday,18:00,Fried Chicken,5
+06/01/25,Monday,18:00,Pasta,6
+06/01/25,Monday,18:00,Fried Chicken,3
+06/01/25,Monday,18:00,Fried Chicken,6
+06/01/25,Monday,18:00,Pizza,3
+06/01/25,Monday,18:00,Steak,4
+06/01/25,Monday,18:00,Pasta,7
+06/01/25,Monday,18:00,Steak,5
+06/01/25,Monday,18:00,Pasta,3
+06/01/25,Monday,18:00,Sushi,5
+06/01/25,Monday,18:00,Burger,2
+06/01/25,Monday,18:00,Pizza,5
+06/01/25,Monday,18:00,Pizza,4
+06/01/25,Monday,18:00,Tacos,4
+06/01/25,Monday,19:00,Sushi,5
+06/01/25,Monday,19:00,Pizza,5
+06/01/25,Monday,19:00,Pasta,6
+06/01/25,Monday,19:00,Pasta,4
+06/01/25,Monday,19:00,Pizza,3
+06/01/25,Monday,19:00,Fried Chicken,3
+06/01/25,Monday,19:00,Burger,4
+06/01/25,Monday,19:00,Pizza,2
+06/01/25,Monday,19:00,Sandwich,6
+06/01/25,Monday,19:00,Sandwich,3
+06/01/25,Monday,19:00,Pizza,3
+06/01/25,Monday,19:00,Tacos,4
+06/01/25,Monday,19:00,Tacos,6
+06/01/25,Monday,19:00,Pizza,6
+06/01/25,Monday,20:00,Burger,5
+06/01/25,Monday,20:00,Salad,5
+06/01/25,Monday,20:00,Pizza,3
+06/01/25,Monday,20:00,Steak,7
+06/01/25,Monday,20:00,Pizza,6
+06/01/25,Monday,20:00,Pizza,6
+06/01/25,Monday,20:00,Fried Chicken,7
+06/01/25,Monday,20:00,Pasta,3
+06/01/25,Monday,20:00,Pizza,3
+06/01/25,Monday,20:00,Salad,4
+06/01/25,Monday,20:00,Pasta,3
+06/01/25,Monday,20:00,Pasta,5
+06/01/25,Monday,20:00,Tacos,6
+06/01/25,Monday,21:00,Steak,4
+06/01/25,Monday,21:00,Steak,3
+06/01/25,Monday,21:00,Sandwich,3
+07/01/25,Tuesday,11:00,Fried Chicken,2
+07/01/25,Tuesday,11:00,Tacos,5
+07/01/25,Tuesday,11:00,Pizza,2
+07/01/25,Tuesday,11:00,Tacos,5
+07/01/25,Tuesday,11:00,Pizza,1
+07/01/25,Tuesday,11:00,Pizza,1
+07/01/25,Tuesday,11:00,Pizza,2
+07/01/25,Tuesday,11:00,Sushi,2
+07/01/25,Tuesday,12:00,Tacos,6
+07/01/25,Tuesday,12:00,Fried Chicken,7
+07/01/25,Tuesday,12:00,Burger,5
+07/01/25,Tuesday,12:00,Sushi,4
+07/01/25,Tuesday,12:00,Burger,6
+07/01/25,Tuesday,12:00,Sushi,5
+07/01/25,Tuesday,12:00,Pizza,4
+07/01/25,Tuesday,12:00,Pizza,2
+07/01/25,Tuesday,12:00,Burger,4
+07/01/25,Tuesday,12:00,Fried Chicken,4
+07/01/25,Tuesday,13:00,Steak,6
+07/01/25,Tuesday,13:00,Sandwich,2
+07/01/25,Tuesday,13:00,Sushi,4
+07/01/25,Tuesday,13:00,Pizza,7
+07/01/25,Tuesday,13:00,Tacos,2
+07/01/25,Tuesday,13:00,Burger,4
+07/01/25,Tuesday,13:00,Tacos,2
+07/01/25,Tuesday,13:00,Fried Chicken,2
+07/01/25,Tuesday,13:00,Sandwich,5
+07/01/25,Tuesday,13:00,Tacos,4
+07/01/25,Tuesday,13:00,Sushi,7
+07/01/25,Tuesday,14:00,Fried Chicken,2
+07/01/25,Tuesday,14:00,Steak,6
+07/01/25,Tuesday,14:00,Fried Chicken,2
+07/01/25,Tuesday,14:00,Sandwich,2
+07/01/25,Tuesday,14:00,Tacos,2
+07/01/25,Tuesday,14:00,Burger,5
+07/01/25,Tuesday,14:00,Steak,2
+07/01/25,Tuesday,14:00,Fried Chicken,3
+07/01/25,Tuesday,14:00,Tacos,4
+07/01/25,Tuesday,14:00,Burger,2
+07/01/25,Tuesday,15:00,Tacos,1
+07/01/25,Tuesday,15:00,Pizza,5
+07/01/25,Tuesday,15:00,Tacos,5
+07/01/25,Tuesday,15:00,Salad,4
+07/01/25,Tuesday,16:00,Pizza,5
+07/01/25,Tuesday,16:00,Steak,1
+07/01/25,Tuesday,16:00,Soup,2
+07/01/25,Tuesday,17:00,Sandwich,5
+07/01/25,Tuesday,17:00,Pizza,1
+07/01/25,Tuesday,17:00,Tacos,3
+07/01/25,Tuesday,17:00,Burger,1
+07/01/25,Tuesday,17:00,Pasta,3
+07/01/25,Tuesday,17:00,Pizza,3
+07/01/25,Tuesday,18:00,Pizza,4
+07/01/25,Tuesday,18:00,Fried Chicken,7
+07/01/25,Tuesday,18:00,Sushi,3
+07/01/25,Tuesday,18:00,Pizza,4
+07/01/25,Tuesday,18:00,Pizza,7
+07/01/25,Tuesday,18:00,Burger,5
+07/01/25,Tuesday,18:00,Pizza,7
+07/01/25,Tuesday,18:00,Burger,7
+07/01/25,Tuesday,18:00,Pasta,5
+07/01/25,Tuesday,18:00,Sandwich,7
+07/01/25,Tuesday,18:00,Fried Chicken,7
+07/01/25,Tuesday,18:00,Fried Chicken,6
+07/01/25,Tuesday,18:00,Pasta,7
+07/01/25,Tuesday,19:00,Fried Chicken,5
+07/01/25,Tuesday,19:00,Burger,2
+07/01/25,Tuesday,19:00,Soup,5
+07/01/25,Tuesday,19:00,Tacos,6
+07/01/25,Tuesday,19:00,Sandwich,6
+07/01/25,Tuesday,19:00,Soup,3
+07/01/25,Tuesday,19:00,Tacos,3
+07/01/25,Tuesday,19:00,Pizza,2
+07/01/25,Tuesday,19:00,Pizza,7
+07/01/25,Tuesday,19:00,Fried Chicken,4
+07/01/25,Tuesday,20:00,Salad,6
+07/01/25,Tuesday,20:00,Soup,4
+07/01/25,Tuesday,20:00,Sandwich,3
+07/01/25,Tuesday,20:00,Burger,3
+07/01/25,Tuesday,20:00,Pasta,5
+07/01/25,Tuesday,20:00,Sandwich,2
+07/01/25,Tuesday,20:00,Pizza,2
+07/01/25,Tuesday,20:00,Tacos,7
+07/01/25,Tuesday,20:00,Steak,6
+07/01/25,Tuesday,20:00,Fried Chicken,4
+07/01/25,Tuesday,20:00,Sushi,5
+07/01/25,Tuesday,20:00,Fried Chicken,2
+07/01/25,Tuesday,20:00,Fried Chicken,7
+07/01/25,Tuesday,21:00,Tacos,1
+07/01/25,Tuesday,21:00,Pizza,2
+07/01/25,Tuesday,21:00,Tacos,4
+07/01/25,Tuesday,21:00,Burger,3
+07/01/25,Tuesday,21:00,Pasta,3
+08/01/25,Wednesday,11:00,Pasta,3
+08/01/25,Wednesday,11:00,Sushi,3
+08/01/25,Wednesday,11:00,Pasta,4
+08/01/25,Wednesday,11:00,Sushi,2
+08/01/25,Wednesday,11:00,Pasta,2
+08/01/25,Wednesday,11:00,Tacos,1
+08/01/25,Wednesday,12:00,Steak,5
+08/01/25,Wednesday,12:00,Burger,2
+08/01/25,Wednesday,12:00,Sandwich,3
+08/01/25,Wednesday,12:00,Steak,3
+08/01/25,Wednesday,12:00,Fried Chicken,5
+08/01/25,Wednesday,12:00,Sushi,5
+08/01/25,Wednesday,12:00,Steak,4
+08/01/25,Wednesday,12:00,Pizza,4
+08/01/25,Wednesday,12:00,Sandwich,5
+08/01/25,Wednesday,12:00,Pizza,3
+08/01/25,Wednesday,12:00,Fried Chicken,2
+08/01/25,Wednesday,12:00,Steak,7
+08/01/25,Wednesday,13:00,Sushi,2
+08/01/25,Wednesday,13:00,Fried Chicken,2
+08/01/25,Wednesday,13:00,Sandwich,5
+08/01/25,Wednesday,13:00,Burger,4
+08/01/25,Wednesday,13:00,Sandwich,3
+08/01/25,Wednesday,13:00,Steak,4
+08/01/25,Wednesday,13:00,Fried Chicken,4
+08/01/25,Wednesday,13:00,Pizza,3
+08/01/25,Wednesday,13:00,Pizza,7
+08/01/25,Wednesday,13:00,Soup,2
+08/01/25,Wednesday,13:00,Pizza,2
+08/01/25,Wednesday,13:00,Tacos,2
+08/01/25,Wednesday,13:00,Pizza,3
+08/01/25,Wednesday,14:00,Tacos,6
+08/01/25,Wednesday,14:00,Sushi,3
+08/01/25,Wednesday,14:00,Salad,6
+08/01/25,Wednesday,14:00,Sandwich,7
+08/01/25,Wednesday,14:00,Steak,3
+08/01/25,Wednesday,14:00,Soup,4
+08/01/25,Wednesday,14:00,Sushi,4
+08/01/25,Wednesday,14:00,Sushi,2
+08/01/25,Wednesday,14:00,Pasta,6
+08/01/25,Wednesday,14:00,Fried Chicken,7
+08/01/25,Wednesday,14:00,Steak,2
+08/01/25,Wednesday,14:00,Pizza,2
+08/01/25,Wednesday,14:00,Salad,3
+08/01/25,Wednesday,14:00,Tacos,6
+08/01/25,Wednesday,15:00,Pasta,5
+08/01/25,Wednesday,15:00,Sushi,5
+08/01/25,Wednesday,15:00,Burger,3
+08/01/25,Wednesday,16:00,Burger,1
+08/01/25,Wednesday,16:00,Steak,5
+08/01/25,Wednesday,16:00,Pizza,1
+08/01/25,Wednesday,16:00,Pizza,1
+08/01/25,Wednesday,16:00,Pasta,5
+08/01/25,Wednesday,16:00,Tacos,3
+08/01/25,Wednesday,16:00,Fried Chicken,3
+08/01/25,Wednesday,16:00,Sushi,3
+08/01/25,Wednesday,17:00,Steak,4
+08/01/25,Wednesday,17:00,Pizza,3
+08/01/25,Wednesday,17:00,Sushi,2
+08/01/25,Wednesday,17:00,Fried Chicken,3
+08/01/25,Wednesday,17:00,Pasta,4
+08/01/25,Wednesday,17:00,Salad,5
+08/01/25,Wednesday,17:00,Burger,4
+08/01/25,Wednesday,17:00,Burger,4
+08/01/25,Wednesday,18:00,Pasta,6
+08/01/25,Wednesday,18:00,Steak,7
+08/01/25,Wednesday,18:00,Sushi,6
+08/01/25,Wednesday,18:00,Salad,6
+08/01/25,Wednesday,18:00,Burger,6
+08/01/25,Wednesday,18:00,Pasta,4
+08/01/25,Wednesday,18:00,Salad,7
+08/01/25,Wednesday,18:00,Sushi,5
+08/01/25,Wednesday,18:00,Steak,5
+08/01/25,Wednesday,19:00,Burger,7
+08/01/25,Wednesday,19:00,Pizza,5
+08/01/25,Wednesday,19:00,Burger,2
+08/01/25,Wednesday,19:00,Pizza,5
+08/01/25,Wednesday,19:00,Steak,6
+08/01/25,Wednesday,19:00,Sandwich,3
+08/01/25,Wednesday,19:00,Pasta,2
+08/01/25,Wednesday,19:00,Tacos,4
+08/01/25,Wednesday,19:00,Fried Chicken,7
+08/01/25,Wednesday,19:00,Steak,2
+08/01/25,Wednesday,20:00,Fried Chicken,3
+08/01/25,Wednesday,20:00,Fried Chicken,7
+08/01/25,Wednesday,20:00,Pizza,6
+08/01/25,Wednesday,20:00,Pasta,5
+08/01/25,Wednesday,20:00,Pasta,4
+08/01/25,Wednesday,20:00,Sandwich,3
+08/01/25,Wednesday,20:00,Sushi,6
+08/01/25,Wednesday,20:00,Burger,6
+08/01/25,Wednesday,20:00,Sushi,2
+08/01/25,Wednesday,21:00,Pasta,4
+08/01/25,Wednesday,21:00,Steak,1
+08/01/25,Wednesday,21:00,Pizza,3
