@@ -6,7 +6,6 @@ CREATE TABLE actual_data (
     hour INTEGER NOT NULL,
     dish VARCHAR(100) NOT NULL,
     quantity INTEGER NOT NULL,
-    price INTEGER NOT NULL
 );
 
 -- Create predicted_data table
@@ -16,6 +15,12 @@ CREATE TABLE predicted_data (
     hour INTEGER NOT NULL,
     dish VARCHAR(100) NOT NULL,
     predicted_quantity INTEGER NOT NULL,
-    price INTEGER NOT NULL,
     prediction_time TIMESTAMP DEFAULT NOW()
+);
+
+-- Create dishes table
+CREATE TABLE dish_data (
+    id SERIAL PRIMARY KEY,          
+    dish_name VARCHAR(100) NOT NULL, 
+    price INTEGER NOT NULL          
 );

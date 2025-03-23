@@ -11,10 +11,10 @@ module.exports = {
     },
   },
   Mutation: {
-    async addPredictedData(_, { day_of_week, hour, dish, predicted_quantity, price }) {
+    async addPredictedData(_, { day_of_week, hour, dish, predicted_quantity}) {
       const res = await pool.query(
-        'INSERT INTO predicted_data (day_of_week, hour, dish, predicted_quantity, price) VALUES ($1, $2, $3, $4, $5) RETURNING *',
-        [day_of_week, hour, dish, predicted_quantity, price]
+        'INSERT INTO predicted_data (day_of_week, hour, dish, predicted_quantity) VALUES ($1, $2, $3, $4) RETURNING *',
+        [day_of_week, hour, dish, predicted_quantity]
       );
       return res.rows[0];
     },
