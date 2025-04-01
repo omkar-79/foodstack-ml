@@ -15,9 +15,7 @@ import {
   Select,
   LoadingOverlay,
 } from '@mantine/core';
-import { DateInput } from '@mantine/dates';
 import { IconPlus, IconTrash } from '@tabler/icons-react';
-import Navigation from '@/components/Navigation';
 
 const dishes = [
   'Pizza Margherita',
@@ -80,120 +78,122 @@ export default function Orders() {
   ));
 
   return (
-    <Container size="xl" py="xl">
-      <motion.div 
+    <Container size="xl" className="pt-20 pb-10">
+      <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <div className="min-h-screen bg-gray-50">
-          <Navigation />
-          <Container size="xl" className="py-8">
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-            >
-              <Paper shadow="sm" radius="md" p="xl" className="mb-8" pos="relative">
-                <LoadingOverlay 
-                  visible={loading} 
-                  zIndex={1000}
-                  blur={2}
-                />
-                <Title order={2} c="#211C84" mb="md">
-                  Add New Order
-                </Title>
+        <Title order={1} c="#211C84" className="mb-8">
+          Orders Management
+        </Title>
 
-                <form onSubmit={handleSubmit} className="space-y-6">
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    <DateInput
-                      label="Date"
-                      placeholder="Select date"
-                      value={newOrder.date ? new Date(newOrder.date) : null}
-                      onChange={(date) => setNewOrder({
-                        ...newOrder,
-                        date: date?.toISOString() || ''
-                      })}
-                      required
-                    />
+        <Paper shadow="sm" radius="md" p="xl" className="mb-8" pos="relative">
+          <LoadingOverlay 
+            visible={loading} 
+            zIndex={1000}
+            blur={2}
+          />
+          <Title order={2} c="#211C84" mb="md">
+            Add New Order
+          </Title>
 
-                    <Select
-                      label="Dish"
-                      placeholder="Select dish"
-                      data={dishes}
-                      value={newOrder.dish}
-                      onChange={(value) => setNewOrder({...newOrder, dish: value || ''})}
-                      searchable
-                      required
-                    />
+          <form onSubmit={handleSubmit} className="space-y-6">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              <TextInput
+                type="date"
+                label="Date"
+                placeholder="Pick a date"
+                value={newOrder.date ? new Date(newOrder.date).toISOString().split('T')[0] : ''}
+                onChange={(e) => setNewOrder({
+                  ...newOrder,
+                  date: e.target.value
+                })}
+                required
+                styles={(theme) => ({
+                  input: {
+                    '&:focus': {
+                      borderColor: '#211C84',
+                    },
+                  },
+                })}
+              />
 
-                    <NumberInput
-                      label="Quantity"
-                      placeholder="Enter quantity"
-                      value={newOrder.quantity}
-                      onChange={(value) => setNewOrder({...newOrder, quantity: value || ''})}
-                      min={1}
-                      required
-                    />
+              <Select
+                label="Dish"
+                placeholder="Select dish"
+                data={dishes}
+                value={newOrder.dish}
+                onChange={(value) => setNewOrder({...newOrder, dish: value || ''})}
+                searchable
+                required
+              />
 
-                    <NumberInput
-                      label="Price"
-                      placeholder="Enter price"
-                      value={newOrder.price}
-                      onChange={(value) => setNewOrder({...newOrder, price: value || ''})}
-                      precision={2}
-                      min={0}
-                      prefix="$"
-                      required
-                    />
-                  </div>
+              <NumberInput
+                label="Quantity"
+                placeholder="Enter quantity"
+                value={newOrder.quantity}
+                onChange={(value) => setNewOrder({...newOrder, quantity: value || ''})}
+                min={1}
+                required
+              />
 
-                  <Group justify="flex-end">
-                    <Button
-                      type="submit"
-                      variant="filled"
-                      styles={(theme) => ({
-                        root: {
-                          backgroundColor: '#211C84',
-                          '&:hover': {
-                            backgroundColor: '#7A73D1',
-                          },
-                        },
-                      })}
-                      leftSection={<IconPlus size={16} />}
-                    >
-                      Add Order
-                    </Button>
-                  </Group>
-                </form>
-              </Paper>
+              <NumberInput
+                label="Price"
+                placeholder="Enter price"
+                value={newOrder.price}
+                onChange={(value) => setNewOrder({...newOrder, price: value || ''})}
+                precision={2}
+                min={0}
+                prefix="$"
+                required
+              />
+            </div>
 
-              <Paper shadow="sm" radius="md" p="xl">
-                <Title order={2} c="#211C84" mb="md">
-                  Orders History
-                </Title>
+            <Group justify="flex-end">
+              <Button
+                type="submit"
+                variant="filled"
+                styles={(theme) => ({
+                  root: {
+                    backgroundColor: '#211C84',
+                    '&:hover': {
+                      backgroundColor: '#7A73D1',
+                    },
+                  },
+                })}
+                leftSection={<IconPlus size={16} />}
+              >
+                Add Order
+              </Button>
+            </Group>
+          </form>
+        </Paper>
 
-                {orders.length === 0 ? (
-                  <Text c="dimmed" ta="center" py="xl">
-                    No orders yet. Add your first order above.
-                  </Text>
-                ) : (
-                  <Table striped highlightOnHover withTableBorder>
-                    <Table.Thead>
-                      <Table.Tr>
-                        <Table.Th>Date</Table.Th>
-                        <Table.Th>Dish</Table.Th>
-                        <Table.Th align="right">Quantity</Table.Th>
-                        <Table.Th align="right">Price</Table.Th>
-                        <Table.Th align="right">Total</Table.Th>
-                        <Table.Th></Table.Th>
-                      </Table.Tr>
-                    </Table.Thead>
-                    <Table.Tbody>{rows}</Table.Tbody>
-                  </Table>
-                )}
-              </Paper>
-            </motion.div>
-          </Container>
-        </div>
+        <Paper shadow="sm" radius="md" p="xl">
+          <Title order={2} c="#211C84" mb="md">
+            Orders History
+          </Title>
+
+          {orders.length === 0 ? (
+            <Text c="dimmed" ta="center" py="xl">
+              No orders yet. Add your first order above.
+            </Text>
+          ) : (
+            <Table striped highlightOnHover withTableBorder>
+              <Table.Thead>
+                <Table.Tr>
+                  <Table.Th>Date</Table.Th>
+                  <Table.Th>Dish</Table.Th>
+                  <Table.Th align="right">Quantity</Table.Th>
+                  <Table.Th align="right">Price</Table.Th>
+                  <Table.Th align="right">Total</Table.Th>
+                  <Table.Th></Table.Th>
+                </Table.Tr>
+              </Table.Thead>
+              <Table.Tbody>{rows}</Table.Tbody>
+            </Table>
+          )}
+        </Paper>
       </motion.div>
     </Container>
   );
